@@ -1,0 +1,16 @@
+Level1
+- ward + provoke
+
+Level2
+- leadership positioning
+
+Level3
+- Aggressor - can declare attack
+
+Level4
+- leadership
+- ward weakest unit
+
+Level5
+- one for one
+- leadership
